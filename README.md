@@ -28,6 +28,7 @@ This app provides the user the ability to do the following:
 - Modify any task
 - Sort the taks based on priorities and due dates
 - View all the tasks that are due today
+- All of the user inputted information is encoded in JSON format and decoded whenever it is necessary
 
 ### Frameworks
 - SwiftUI
