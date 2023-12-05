@@ -13,14 +13,22 @@
 - Decoded user data from JSON file to allow data to persist when app is forced to close
 <img src="https://github.com/MiguelAcostaDelVecchio/TodoListApp/blob/main/Gifs/DemonstratingPersistance.gif" width="300" height="624" />
 
-### 
-
 ## Table of contents
 - [Description](https://github.com/MiguelAcostaDelVecchio/TodoListApp/edit/main/README.md#description)
 - [How To Use](https://github.com/MiguelAcostaDelVecchio/TodoListApp/edit/main/README.md#how-to-use)
 - [Author Info](https://github.com/MiguelAcostaDelVecchio/TodoListApp/edit/main/README.md#author-info)
 ## Description
 The application's primary goal is to assist users in maintaining their personal to-do lists effectively by categorizing tasks into projects, promoting improved productivity. It includes a specific tab for users to concentrate on tasks scheduled for today. In the words of David Allen, "The mind is for having ideas, not holding them."
+
+This app provides the user the ability to do the following:
+- Create new projects
+- Create tasks within a specific project
+- Delete any user created project
+- Complete any task
+- Modify any task
+- Sort the taks based on priorities and due dates
+- View all the tasks that are due today
+
 ### Frameworks
 - SwiftUI
 ## How To Use
