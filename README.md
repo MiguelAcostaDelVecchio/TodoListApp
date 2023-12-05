@@ -1,6 +1,19 @@
 # TodoListApp
 
 ## Screen Recordings
+### How to create a task
+<img src="https://github.com/MiguelAcostaDelVecchio/TodoListApp/blob/main/Gifs/CreatingTask.gif" width="300" height="624" />
+
+### Only tasks that are due today will be shown in the "Today's Tasks" tab
+- Furthermore, user can also sort the tasks based on priorities and due dates
+<img src="https://github.com/MiguelAcostaDelVecchio/TodoListApp/blob/main/Gifs/TodaysViewDemonstration.gif" width="300" height="624" />
+
+### Persistance via File Manager
+- Encoded user data into a JSON file
+- Decoded user data from JSON file to allow data to persist when app is forced to close
+<img src="https://github.com/MiguelAcostaDelVecchio/TodoListApp/blob/main/Gifs/DemonstratingPersistance.gif" width="300" height="624" />
+
+### 
 
 ## Table of contents
 - [Description](https://github.com/MiguelAcostaDelVecchio/TodoListApp/edit/main/README.md#description)
